@@ -1,0 +1,20 @@
+if [ -f ~/.bashrc ]; then
+   source ~/.bashrc
+fi
+
+## External software path
+export PATH=$PATH:/path-to-maven/apache-maven-3.3.9/bin
+
+## Setting up thefuck
+#eval "$(thefuck --alias)"
+#alias fml="fuck"
+
+## Separate out setup for various software, projects to separate files
+#source ~/.java_setup
+#source ~/.bash_docker
+#source ~/.bash_hadoop
+##source ~/.bash_go
+#source ~/.bash_haskell
+#source ~/.bash_oracle
+#source ~/.bash_postgres
+#source ~/.git-completion.bash
