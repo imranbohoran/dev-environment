@@ -4,6 +4,12 @@ Notes on setting up my development environment
 
 ## Mac
 
+#### iTerm
+
+
+#### Oh My Zsh
+https://github.com/robbyrussell/oh-my-zsh
+
 #### Brew
 - Install brew from https://brew.sh/
 
