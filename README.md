@@ -5,7 +5,7 @@ Notes on setting up my development environment
 ## Mac
 
 #### iTerm
-
+[see iterm2] (iterm2/)
 
 #### Oh My Zsh
 https://github.com/robbyrussell/oh-my-zsh
