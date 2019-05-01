@@ -4,14 +4,15 @@ Notes on setting up my development environment
 
 ## Mac
 
+#### Brew
+- Install brew from https://brew.sh/
+
 #### iTerm
-[see iterm2] (iterm2/)
+`brew cask install iterm2`
 
 #### Oh My Zsh
 https://github.com/robbyrussell/oh-my-zsh
 
-#### Brew
-- Install brew from https://brew.sh/
 
 #### Java
 (Borrowed from https://stackoverflow.com/questions/52524112/how-do-i-install-java-on-mac-osx-allowing-version-switching)
