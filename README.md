@@ -8,7 +8,7 @@ Notes on setting up my development environment
 - Install brew from https://brew.sh/
 
 #### iTerm
-`brew cask install iterm2`
+`brew install --cask iterm2`
 
 #### Oh My Zsh
 https://github.com/robbyrussell/oh-my-zsh
